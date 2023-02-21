@@ -133,3 +133,7 @@ docs/assets/llff/
 docs/assets/nerf_synthetic/
 out/
 data/
+scripts/
+gnt_env/
+
+GNT_data.zip
